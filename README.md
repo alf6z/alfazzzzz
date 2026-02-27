@@ -72,5 +72,7 @@ More projects coming soon...
 - 🚀 Always learning
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQH4R7G7ZK/giphy.gif" width="500">
+</p>
 ⭐ Thanks for visiting my profile!
